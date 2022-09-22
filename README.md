@@ -1,2 +1,3 @@
-# SudokuViz
- Processing app to visualize Sudoku puzzles
+# Sudoku Viz
+
+Processing app to visualize Sudoku puzzles
